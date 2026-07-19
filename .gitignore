@@ -1,0 +1,25 @@
+
+# Confidential File
+.env*
+auth.json
+
+# IDE Folder
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+
+# Dependencies Folder
+/vendor
+/node_modules
+
+# Build Artifacts
+/out
+/dist
+
+# Log
+*.log
+
+# Exceptions
+!*.example
